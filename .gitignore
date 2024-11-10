@@ -25,5 +25,5 @@ run
 forge*changelog.txt
 
 # jdk
-jdk-17.0.13+11
+jdk-17.0.13+11/
 
